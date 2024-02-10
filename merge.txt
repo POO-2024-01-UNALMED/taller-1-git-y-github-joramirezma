@@ -1,0 +1,1 @@
+Github ahora deja hacer commit porque detecta que hay cambios dentro de la carpeta, en el caso anterior con la carpeta archivos no dejaba hacer commit porque no detectaba cambios al interio de ella
