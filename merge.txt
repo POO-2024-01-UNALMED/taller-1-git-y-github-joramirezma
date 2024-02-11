@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Johan Ramirez Marin
-19
-Quiero aprender todo lo que pueda sobre Java y Python para asi poder tener mas conocimientos y herramientas a la hora de programar
-=======
-Github ahora deja hacer commit porque detecta que hay cambios dentro de la carpeta, en el caso anterior con la carpeta archivos no dejaba hacer commit porque no detectaba cambios al interio de ella
->>>>>>> 2ebd533df7bbc00754d529a7ec56a22adfd96588
-
-Es importante tener cuidado a la hora de modificar dos archivos al mismo tiempo porque puede generar errores y problemas que pueden afectar todo el proyecto
